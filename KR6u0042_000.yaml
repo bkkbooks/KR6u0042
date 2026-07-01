@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0042/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三萬佛同根本神祕之印並法龍種上尊王佛法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2906.xml
+    old_id: T85n2906
+hash: sha256:4ee2553c2f0c56d27f2016403d4681630145c2de46f913c003a18412a7940394

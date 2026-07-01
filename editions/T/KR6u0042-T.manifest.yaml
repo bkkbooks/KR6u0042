@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6u0042/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0042/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三萬佛同根本神祕之印並法龍種上尊王佛法
+  identifiers:
+    krp: KR6u0042
+    cbeta: T85n2906
+    cbeta_old_id: T85n2906
+    authorityid: CA0004919
+    json_key: T2906
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2906.xml
+    old_id: T85n2906
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0042_000-T.yaml, hash: 'sha256:4ee2553c2f0c56d27f2016403d4681630145c2de46f913c003a18412a7940394'}
+  - {seq: 1, filename: KR6u0042_001-T.yaml, hash: 'sha256:b2a1a08651cb7a29ee02d896aadc826aed23aac2645d2a718a80ce415f462502'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0042_000-T.markers.yaml, hash: 'sha256:267dd9692b1fe7ae512f9d008105bc66cc7538c2e3e54ecb57aec9db39d3db6d'}
+  - {seq: 1, role: markers, filename: assets/KR6u0042_001-T.markers.yaml, hash: 'sha256:b4c5d127d098a362a9937fd3c4b9afdab575bb329693953edd5ffd470d97e61f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0042_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2728
+  label: '三萬佛同根本神秘之印並法龍
+
+    種上尊王佛法'
+  type: juan
+  level: 1
+hash: sha256:d2ccbed89f8352b8729d3cde5f4863d35599418617571d75c5099fd661ac1bc6
