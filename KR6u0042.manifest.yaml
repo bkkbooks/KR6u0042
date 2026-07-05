@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0042_000.yaml, hash: 'sha256:4ee2553c2f0c56d27f2016403d4681630145c2de46f913c003a18412a7940394'}
-  - {seq: 1, filename: KR6u0042_001.yaml, hash: 'sha256:ac9b05164bd9472f613b22961c5eeb941475bd5772f01f155a77689ef81fdd4f'}
+  - {seq: 1, filename: KR6u0042_001.yaml, hash: 'sha256:b2a1a08651cb7a29ee02d896aadc826aed23aac2645d2a718a80ce415f462502'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0042_001.markers.yaml, hash: 'sha256:0798ed85141fc06f245bee6ffc07399b71441fce449f68a2f5ab174508761c77'}
+  - {seq: 0, role: markers, filename: assets/KR6u0042_000.markers.yaml, hash: 'sha256:fc442214957ddaaa603a4752ef7c356896007d7ebc38c2e4845f44d2b0dd6972'}
+  - {seq: 1, role: markers, filename: assets/KR6u0042_001.markers.yaml, hash: 'sha256:572dac1d1d8b281d370e9633c43d2e6374b9d8093c1a4fc6a9f729e585532b86'}
 table_of_contents:
 - ref:
     seq: 1
@@ -38,7 +39,4 @@ table_of_contents:
     種上尊王佛法'
   type: juan
   level: 1
-hash: sha256:a7740121d5be08885cdde98db71fda86dbb9bbf5438d1998068c92fb8311b3be
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:58ef573ec0c6520acd7a99253981d9aa495be9348a5c1084755c41338274c9b6
