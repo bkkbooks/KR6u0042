@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0042/v1
 canonical_location: https://kanripo.org/bkk/KR6u0042/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 三萬佛同根本神祕之印並法龍種上尊王佛法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0042_000.yaml, hash: 'sha256:4ee2553c2f0c56d27f2016403d4681630145c2de46f913c003a18412a7940394'}
-  - {seq: 1, filename: KR6u0042_001.yaml, hash: 'sha256:b2a1a08651cb7a29ee02d896aadc826aed23aac2645d2a718a80ce415f462502'}
+  - {seq: 1, filename: KR6u0042_001.yaml, hash: 'sha256:5147a95a776f126e9fa17c8ba3090f27d0892083281bad010515af0ea0ee8074'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0042_000.markers.yaml, hash: 'sha256:fc442214957ddaaa603a4752ef7c356896007d7ebc38c2e4845f44d2b0dd6972'}
-  - {seq: 1, role: markers, filename: assets/KR6u0042_001.markers.yaml, hash: 'sha256:572dac1d1d8b281d370e9633c43d2e6374b9d8093c1a4fc6a9f729e585532b86'}
+  - {seq: 1, role: markers, filename: assets/KR6u0042_001.markers.yaml, hash: 'sha256:8ab29252b374085e32b92eec560ab496765a35d3fe6339e0af613b2dcae2ae03'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     種上尊王佛法'
   type: juan
   level: 1
-hash: sha256:58ef573ec0c6520acd7a99253981d9aa495be9348a5c1084755c41338274c9b6
+hash: sha256:03eb1f62f726966a30a6f7deacf53be52d09d9b3c1f4122c47377774844d40ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
